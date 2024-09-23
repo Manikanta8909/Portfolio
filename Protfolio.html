@@ -1,0 +1,86 @@
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titleYour Name - Portfoliotitle
+    link rel=stylesheet href=styles.css
+head
+body
+    header
+        h1Your Nameh1
+        h2Professional Title or Taglineh2
+        pEmail a href=mailtoyour-email@example.comyour-email@example.comap
+        pPhone (123) 456-7890p
+        pa href=httpswww.linkedin.cominyourprofile target=_blankLinkedIn Profileap
+    header
+
+    nav
+        ul
+            lia href=#bioAbout Meali
+            lia href=#skillsSkillsali
+            lia href=#projectsProjectsali
+            lia href=#educationEducationali
+            lia href=#experienceExperienceali
+            lia href=#testimonialsTestimonialsali
+        ul
+    nav
+
+    section id=bio
+        h3About Meh3
+        pA brief introduction about yourself and your background.p
+    section
+
+    section id=skills
+        h3Skillsh3
+        ul
+            liSkill 1li
+            liSkill 2li
+            liSkill 3li
+        ul
+    section
+
+    section id=projects
+        h3Projectsh3
+        article
+            h4Project Title 1h4
+            pBrief description, your role, tools used, and outcomesresults.p
+        article
+        article
+            h4Project Title 2h4
+            pBrief description, your role, tools used, and outcomesresults.p
+        article
+    section
+
+    section id=education
+        h3Educationh3
+        pYour degrees, institutions, and any relevant certifications.p
+    section
+
+    section id=experience
+        h3Experienceh3
+        article
+            h4Job Title - Company Nameh4
+            pDate Start - Endp
+            pBrief description of your responsibilities and achievements.p
+        article
+        article
+            h4Job Title - Company Nameh4
+            pDate Start - Endp
+            pBrief description of your responsibilities and achievements.p
+        article
+    section
+
+    section id=testimonials
+        h3Testimonialsh3
+        blockquote
+            pA great quote from a colleague or client about your work.p
+            cite- Name, Titlecite
+        blockquote
+    section
+
+    footer
+        p&copy; 2024 Your Name. All rights reserved.p
+    footer
+body
+html
